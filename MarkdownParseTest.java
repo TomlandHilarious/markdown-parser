@@ -9,6 +9,7 @@ public class MarkdownParseTest extends MarkdownParse {
     @Test
     public void addtion() {
         assertEquals(2, 1+1);
+        assertEquals(4, 2+2);
     }
     @Test
     public void testparse() throws java.io.IOException{
